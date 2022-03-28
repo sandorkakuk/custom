@@ -29,7 +29,7 @@ Exec=/opt/pycharm/pycharm-community-2021.3.2/bin/pycharm.sh
 Icon=/opt/pycharm/pycharm-community-2021.3.2/bin/pycharm.png
 Terminal=false
 EOF
-#pip csomagok telepítése
+#pip csomagok telepítése a Python-hoz
 #https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/
 pip install PyInstaller
 pip install py2exe
