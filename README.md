@@ -3,7 +3,7 @@
 A [cubic](https://github.com/PJ-Singh-001/Cubic) használatával készült terjesztésből eltávolításra került  az összes olyan alaklmazást, amely akadályozza a tanulást/munkát, illetve elveszi a figyelmet, játékok, stb.
 A telepítőt és más a merevlemezmanipulálsását célző alkalmazások (gparted) szintétn eltávolításra kerültek.
 
-A rendszer automatikusan indúl és magyar nyelven használható.
+A Live rendszer automatikusan indúl és magyar nyelven használható.
 
 Hozzáadott alkalmazások:
 - Cisco Packet Tracer
