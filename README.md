@@ -5,6 +5,13 @@ A telepítőt és más a merevlemezmanipulálsását célző alkalmazások szint
 A rendszer automatikusan indúl és magyar nyelven használható.
 Minimum rendszerigény 2 GB RAM
 
+Hozzáadott alkalmazások:
+- Cisco PAcket Tracer
+- Visual Code-
+- Atom
+- PxCharm
+
+
 Letölthető innen: https://mega.nz/file/4wBChDDB#fKLFRV8NL4gjtRrtN-c_2M5C8rFSm-OEgXSpioZ1QRs
 md5: https://mega.nz/file/Yh4ymboY#KHa4mLsV_xX7d5C8dNdvsBWf2vgUI_WUlmTmNTRE8RI
 
