@@ -1,16 +1,17 @@
 # wmk Ubuntu
 
-A terjesztésből eltávolítottam az összes olyan alaklmazást, amely akadályozza a munkát, illetve elveszi a figyelmet, játékok, stb.
-A telepítőt és más a merevlemezmanipulálsását célző alkalmazások szintétneltávolításra kerültek.
+A cubic [cubic](https://github.com/PJ-Singh-001/Cubic) használatával készült terjesztésből eltávolítottam az összes olyan alaklmazást, amely akadályozza a munkát, illetve elveszi a figyelmet, játékok, stb.
+A telepítőt és más a merevlemezmanipulálsását célző alkalmazások (gparted) szintétneltávolításra kerültek.
+
 A rendszer automatikusan indúl és magyar nyelven használható.
-Minimum rendszerigény 2 GB RAM
 
 Hozzáadott alkalmazások:
-- Cisco PAcket Tracer
+- Cisco Packet Tracer
 - Visual Code-
 - Atom
 - PxCharm
 
+Minimum rendszerigény 2 GB RAM
 
 Letölthető innen: https://mega.nz/file/4wBChDDB#fKLFRV8NL4gjtRrtN-c_2M5C8rFSm-OEgXSpioZ1QRs
 md5: https://mega.nz/file/Yh4ymboY#KHa4mLsV_xX7d5C8dNdvsBWf2vgUI_WUlmTmNTRE8RI
