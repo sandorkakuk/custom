@@ -7,9 +7,10 @@ A Live rendszer automatikusan indúl és magyar nyelven használható.
 
 Hozzáadott alkalmazások:
 - Cisco Packet Tracer
-- Visual Code-
+- Visual Code
 - Atom
 - PxCharm
+- Wireshark
 
 Minimum rendszerigény 2 GB RAM
 
