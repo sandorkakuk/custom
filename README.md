@@ -2,6 +2,7 @@
 
 A [Cubic](https://github.com/PJ-Singh-001/Cubic) és a custom bash script használatával készült variánsból eltávolításra kerültek  azon alkalmazások, amelyek elvonhatják a figyelmet a tanulásról (játékok, médialejátszók, stb).
 A telepítőt és más a merevlemez manipulálását célzó alkalmazások (pl. GParted) szintétn eltávolításra kerültek.
+(Ez nem egy új disztribúció, nem törekedtem új kinézet létrehozásán. Egy konyhakész megoldás nem működő gépek helyettesítésére, vagy otthoni tanulásra telepítés nélkül.)
 
 A Live rendszer magyar nyelven használható.
 
@@ -12,6 +13,8 @@ Hozzáadott alkalmazások:
 - Wireshark
 
 Minimum rendszerigény 2 GB RAM (optimális 4 GB RAM).
+
+
 
 Letölthető [innen](https://mega.nz/file/4wBChDDB#fKLFRV8NL4gjtRrtN-c_2M5C8rFSm-OEgXSpioZ1QRs)
 
