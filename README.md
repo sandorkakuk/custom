@@ -1,7 +1,7 @@
 # wmk Ubuntu
 
 A [Cubic](https://github.com/PJ-Singh-001/Cubic) és a custom bash script használatával készült variánsból eltávolításra kerültek  azon alkalmazások, amelyek elvonhatják a figyelmet a tanulásról (játékok, médialejátszók, stb).
-A telepítőt és más a merevlemez manipulálsását célző alkalmazások (pl. GParted) szintétn eltávolításra kerültek.
+A telepítőt és más a merevlemez manipulálását célző alkalmazások (pl. GParted) szintétn eltávolításra kerültek.
 
 A Live rendszer magyar nyelven használható.
 
