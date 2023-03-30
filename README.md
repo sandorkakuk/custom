@@ -1,18 +1,17 @@
 # wmk Ubuntu
 
-A [cubic](https://github.com/PJ-Singh-001/Cubic) használatával készült terjesztésből eltávolításra került  az összes olyan alaklmazást, amely akadályozza a tanulást/munkát, illetve elveszi a figyelmet, játékok, stb.
-A telepítőt és más a merevlemezmanipulálsását célző alkalmazások (gparted) szintétn eltávolításra kerültek.
+A [cubic](https://github.com/PJ-Singh-001/Cubic) használatával készült terjesztésből eltávolításra kerültek  azon alaklmazások, amelyek elvonhatják a figyelmet a tanulsáról (játékok, médialejátsók, stb).
+A telepítőt és más a merevlemez manipulálsását célző alkalmazások (pl. GParted) szintétn eltávolításra kerültek.
 
-A Live rendszer automatikusan indúl és magyar nyelven használható.
+A Live rendszer magyar nyelven használható.
 
 Hozzáadott alkalmazások:
 - Cisco Packet Tracer
-- Visual Code
-- Atom
+- Visual Studio Code
 - PxCharm
 - Wireshark
 
-Minimum rendszerigény 2 GB RAM
+Minimum rendszerigény 2 GB RAM (optimális 4 GB RAM).
 
 Letölthető [innen](https://mega.nz/file/4wBChDDB#fKLFRV8NL4gjtRrtN-c_2M5C8rFSm-OEgXSpioZ1QRs)
 
