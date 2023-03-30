@@ -2,7 +2,7 @@
 
 A [Cubic](https://github.com/PJ-Singh-001/Cubic) és a custom bash script használatával készült variánsból eltávolításra kerültek  azon alkalmazások, amelyek elvonhatják a figyelmet a tanulásról (játékok, médialejátszók, stb).
 A telepítőt és más a merevlemez manipulálását célzó alkalmazások (pl. GParted) szintétn eltávolításra kerültek.
-(Ez nem egy új disztribúció, nem törekedtem új kinézet létrehozásán. Egy konyhakész megoldás nem működő gépek helyettesítésére, vagy otthoni tanulásra telepítés nélkül.)
+(Ez nem egy új disztribúció, nem törekedtem új kinézet létrehozására. Egy konyhakész megoldás nem működő rendszerek helyettesítésére, vagy otthoni tanulásra telepítés nélkül.)
 
 A Live rendszer magyar nyelven használható.
 
