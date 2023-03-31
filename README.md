@@ -20,4 +20,4 @@ Letölthető [innen](https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLj
 
 md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g)
 
-![ubuntu-21 10 0-2022 03 17-desktop-amd64](https://user-images.githubusercontent.com/53403093/225569458-48d2db05-2ccb-4cf6-b166-c2e05670df84.png)
+![ubuntu-22 04 2-2023 03 30-desktop-amd64](https://user-images.githubusercontent.com/53403093/229079695-5b2e9097-4e0b-4904-a5a6-f24abce2bcce.png)
