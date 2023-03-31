@@ -3,11 +3,9 @@
 #adding repositories
 add-apt-repository universe multiverse -y
 #update packages
-apt-update -y
-apt upgrade -y
+apt-update -y && apt upgrade -y
 #set language
-dpkg-reconfigure locales
-update-locale LANG=hu_HU.UTF-8 
+dpkg-reconfigure locales && update-locale LANG=hu_HU.UTF-8 
 #keyboard setting
 sed -ie 's/"us"/"hu"/g' /etc/default/keyboard
 #
@@ -101,6 +99,5 @@ mv /usr/share/applications/gnome-language-selector.desktop /usr/share/applicatio
 rm /etc/init/tty3.conf && rm /etc/init/tty4.conf && rm /etc/init/tty5.conf && rm /etc/init/tty6.conf
 #
 #removing installation packages
-cd
-rm * -R
+cd && rm * -R
 #
