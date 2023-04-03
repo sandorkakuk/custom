@@ -3,7 +3,7 @@
 #adding repositories
 add-apt-repository universe multiverse -y
 #update packages
-apt-update -y && apt upgrade -y
+apt update -y && apt upgrade -y
 #set language
 dpkg-reconfigure locales && update-locale LANG=hu_HU.UTF-8 
 #keyboard setting
@@ -15,10 +15,8 @@ apt remove libreoffice-* -y
 #installing packages
 apt install -y dialog curl pipenv git python3-tk python3-pygame language-pack-en language-pack-hu gnome-user-docs-hu language-pack-gnome-hu-base language-pack-gnome-hu python3-matplotlib libxcb-xinerama0-dev dialog xdg-user-dirs-gtk git gnome-control-center  qtwebengine5-dev libwebsockets-dev libqt5webkit5 libqt5multimediawidgets5 libqt5svg5 libqt5script5 libqt5scripttools5 libqt5sql5 libqt5texttospeech5 sudo wireshark fonts-noto-cjk-extra
 #installling PyCharm
-#https://www.how2shout.com/linux/how-to-install-pycharm-ubuntu-20-04-lts/
 wget https://download.jetbrains.com/python/pycharm-community-2022.3.3.tar.gz
-cd /opt
-rmdir * -r
+cd /opt && rmdir * -r
 cd
 mkdir /opt/pycharm
 tar -zxvf pycharm-community-*.tar.gz
@@ -37,8 +35,7 @@ Exec=/opt/pycharm-community/bin/pycharm.sh
 Icon=/opt/pycharm-community/bin/pycharm.png
 Terminal=false
 EOF
-cd /opt
-rm pycharm
+cd /opt && rm pycharm
 #
 #installing Visual Studio Code
 #https://code.visualstudio.com/docs/setup/linux
