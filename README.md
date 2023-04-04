@@ -1,7 +1,7 @@
 # w make Ubuntu
 
 This [Ubuntu](https://ubuntu.com/) variant was created using [Cubic](https://github.com/PJ-Singh-001/Cubic) and the custom bash script
-applications that can distract from learning (games, media players, etc.) have been removed. The installer and other hard drive manipulation applications (eg GParted) were also removed.
+Applications that can distract from learning (games, media players, etc.) have been removed. The installer and other hard drive manipulation applications (eg GParted) were also removed.
 This is not a new distribution, I did not try to create a new look. A ready-to-use solution to replace non-working systems or for home learning without installation
 
 The Live system can be used in Hungarian.
