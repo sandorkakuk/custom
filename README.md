@@ -6,7 +6,7 @@ Az alkalmazások közűl eltávolításra kerültek azok, amelyek zavarhatják a
 Hozzáadott alkalmazások:
 - Cisco Packet Tracer
 - Visual Studio Code
-- PxCharm
+- PyCharm
 - Wireshark
 
 Minimális rendszerigény 2 GB RAM (optimális 4 GB RAM).
