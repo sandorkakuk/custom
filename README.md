@@ -2,7 +2,6 @@
 
 Ez az [Ubuntu](https://ubuntu.com/) változat a [Cubic](https://github.com/PJ-Singh-001/Cubic) és a custom bash script segítségével készült.
 Az alkalmazások közűl eltávolításra kerültek azok, amelyek zavarhatják a munkát (zenelejátszó, játékok) olletve azon alkalmazások amelyek segítségéel manipulálható a gépen évő rendszer (teleoítő, gparted)
-Ez nem egy új disztribúció! Ez csak egy rendszer, amely olyan helyzetekben seít, ha nincs OS a gépen.
 
 Hozzáadott alkalmazások:
 - Cisco Packet Tracer
