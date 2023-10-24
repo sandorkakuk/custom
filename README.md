@@ -25,9 +25,9 @@ Ez a verzó az előd tulajdonságait örökölte, DE már csak a PyCharm alkalma
 
 Minimális rendszerigény 2 GB RAM (optimális 4 GB RAM).
   
-letöltheő [innen](https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLjXd5AZvhzVxdyTY](https://mega.nz/file/4hxHiYpK#12N1j0ZgxibiqZbetjInwk__-49Q_doQZ6WfZczT9k8)
+letöltheő [innen](https://mega.nz/file/4hxHiYpK#12N1j0ZgxibiqZbetjInwk__-49Q_doQZ6WfZczT9k8)
 
-md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo)
+md5 [itt](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo)
 
 ![Képernyőkép ekkor: 2023-10-24 10-09-47](https://github.com/sandorkakuk/custom/assets/53403093/80b719ad-7071-45c7-9eca-25e2f8cd745a)
 
