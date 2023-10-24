@@ -29,7 +29,8 @@ letöltheő [innen](https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLjX
 
 md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo)
 
-![ubuntu-22 04 2-2023 03 30-desktop-amd64](https://user-images.githubusercontent.com/53403093/229079695-5b2e9097-4e0b-4904-a5a6-f24abce2bcce.png)
+![Képernyőkép ekkor: 2023-10-24 10-09-47](https://github.com/sandorkakuk/custom/assets/53403093/1811d79e-d009-4675-98da-ea7994f8947f)
+
 
 ---
 
