@@ -35,4 +35,4 @@ md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3v
 
 # We MaKe Debian 12
 
-Egy [Debian] (https://www.debian.org/) OS_en alapuló USB-ről futattható [LxQt] (https://lxqt-project.org/) környezetet tartalmazó rendszer, mely csak a PyCharm alkalmazást tartalmazza.
+Egy [Debian](https://www.debian.org/) OS-en alapuló USB-ről futattható [LxQt](https://lxqt-project.org/) környezetet használó rendszer, mely csak a PyCharm alkalmazást tartalmazza.
