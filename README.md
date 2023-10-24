@@ -39,6 +39,6 @@ md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3v
 Egy [Debian](https://www.debian.org/) OS-en alapuló USB-ről futtatható [LxQt](https://lxqt-project.org/) környezetet használó rendszer, mely csak a PyCharm alkalmazást tartalmazza.
 
 letöltheő [innen](https://mega.nz/file/MogFGArS#hNXKbYUXB7VCQDBxaqhUNevPsiYklu00A2nwbLMxuzI)
-md [itt](https://mega.nz/file/MswR1boJ#FxIBaeAd4j9E3-aQ-QcTFTba2YelIGxmsCeqfwMOhcw)
+md5 [itt](https://mega.nz/file/MswR1boJ#FxIBaeAd4j9E3-aQ-QcTFTba2YelIGxmsCeqfwMOhcw)
 
 ![Képernyőkép ekkor: 2023-10-24 10-23-35](https://github.com/sandorkakuk/custom/assets/53403093/afc94eea-e74d-4e1f-b561-c5c9a44225ef)
