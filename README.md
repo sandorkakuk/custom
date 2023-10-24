@@ -29,11 +29,11 @@ letöltheő [innen](https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLjX
 
 md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo)
 
-![Képernyőkép ekkor: 2023-10-24 10-09-47](https://github.com/sandorkakuk/custom/assets/53403093/1811d79e-d009-4675-98da-ea7994f8947f)
+![Képernyőkép ekkor: 2023-10-24 10-09-47](https://github.com/sandorkakuk/custom/assets/53403093/80b719ad-7071-45c7-9eca-25e2f8cd745a)
 
 
 ---
 
 # We MaKe Debian 12
 
-Egy [Debian](https://www.debian.org/) OS-en alapuló USB-ről futattható [LxQt](https://lxqt-project.org/) környezetet használó rendszer, mely csak a PyCharm alkalmazást tartalmazza.
+Egy [Debian](https://www.debian.org/) OS-en alapuló USB-ről futtatható [LxQt](https://lxqt-project.org/) környezetet használó rendszer, mely csak a PyCharm alkalmazást tartalmazza.
