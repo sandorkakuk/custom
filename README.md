@@ -1,4 +1,4 @@
-# We MaKe Ubuntu 21.10
+# We MaKe Ubuntu 22.04
 
 Ez az [Ubuntu](https://ubuntu.com/) változat a [Cubic](https://github.com/PJ-Singh-001/Cubic) és a custom bash script segítségével készült.
 Az alkalmazások közűl eltávolításra kerültek azok, amelyek zavarhatják a munkát (zenelejátszó, játékok, stb.) illetve azon alkalmazások amelyek segítségével manipulálható a gépen lévő rendszer (telepítő, GParted, stb.)
