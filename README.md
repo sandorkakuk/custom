@@ -25,9 +25,9 @@ Ez a verzó az előd tulajdonságait örökölte, DE már csak a PyCharm alkalma
 
 Minimális rendszerigény 2 GB RAM (optimális 4 GB RAM).
   
-letöltheő [innen]([https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLjXd5AZvhzVxdyTY](https://mega.nz/file/4hxHiYpK#12N1j0ZgxibiqZbetjInwk__-49Q_doQZ6WfZczT9k8))
+letöltheő [innen](https://mega.nz/file/dl42EDgZ#V4frWHdULRhgftqSvaIJwQcqFSMLjXd5AZvhzVxdyTY](https://mega.nz/file/4hxHiYpK#12N1j0ZgxibiqZbetjInwk__-49Q_doQZ6WfZczT9k8)
 
-md5 [itt]([https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo))
+md5 [itt](https://mega.nz/file/s5h0CbpI#iMdP1wRezgnhLzDVLBeVZtlAFIMwIsOf-Rtxwn3vz5g](https://mega.nz/file/Y5oSyQKA#-6khYEnRIok4JNW-MjDcbzK44LvFfvJeGoUceT8VEWo)
 
 ![ubuntu-22 04 2-2023 03 30-desktop-amd64](https://user-images.githubusercontent.com/53403093/229079695-5b2e9097-4e0b-4904-a5a6-f24abce2bcce.png)
 
